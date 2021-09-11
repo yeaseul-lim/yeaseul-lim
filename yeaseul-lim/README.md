@@ -9,7 +9,7 @@
 - 🏫 I'm a student majoring in game engineering at Digipen-KMU.
 - 📚 I am learning c++ and linear algebra this semester.
 - 📚 I learned p5js last semester.
-- ✏️ I think math is important for coding, so I study math, but it is difficult.   
+- ✏️ I think math is important for coding, so I study math. 
      (I study math on this site : https://ko.khanacademy.org)
 - 🎨 I want to draw well to better express my thoughts. If you want to teach me how to draw well, please contact me.
 ***
