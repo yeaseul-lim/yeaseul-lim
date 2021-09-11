@@ -1,5 +1,5 @@
 ### Hi there 🙌
-#### Yeaseul Lim (임예슬)
+#### I am Yeaseul Lim (임예슬)
 ***
 - ✨ 2000.06.13
 - ✨ I am Korean.
