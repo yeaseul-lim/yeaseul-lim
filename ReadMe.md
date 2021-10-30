@@ -10,7 +10,7 @@
 - 📚 I learned p5js last semester.
 - ✏️ I think math is important for coding, so I study math.    
      (I study math on this site : https://ko.khanacademy.org)
-- 🎨 I want to draw well to better express my thoughts. If you want to teach me how to draw well, please contact me.
+- 🎨 I want to draw well to express my thoughts . If you want to teach me how to draw well, please contact me.
 ***
 - 👩‍💻 My dream is to be a game developer.
 - 🎮 My favorite games : World war Z, Stardew Valley.
